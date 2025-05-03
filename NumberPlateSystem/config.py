@@ -2,6 +2,10 @@
 Application configuration
 """
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # File paths
 DATA_DIR = "NumberPlateSystem/data"
@@ -11,7 +15,7 @@ DATA_FILE = os.path.join(DATA_DIR, "registered_vehicles.json")
 os.makedirs(DATA_DIR, exist_ok=True)
 
 # API settings
-API_KEY = "AIzaSyDX6P6-j4Q50sjzR2ElTzV9c64ay_QuqyE"  # Add your key here
+API_KEY = os.getenv("API_KEY")
 
 # Camera settings
 CAMERA_INDEX = 0  # Default camera (usually the built-in webcam)
