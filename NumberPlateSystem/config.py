@@ -4,7 +4,7 @@ Application configuration
 import os
 
 # File paths
-DATA_DIR = "data"
+DATA_DIR = "NumberPlateSystem/data"
 DATA_FILE = os.path.join(DATA_DIR, "registered_vehicles.json")
 
 # Ensure data directory exists
