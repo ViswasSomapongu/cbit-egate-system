@@ -53,7 +53,7 @@ Together, these modules enhance security, reduce manual effort, and streamline a
 
 Dear juniors,
 
-This project — **AI-Based E-Gate Management System (Face & Vehicle Recognition)** — was developed as part of our final year work at **CBIT, Hyderabad**, under the mentorship of  
+This project — **AI-Based E-Gate Management System (Face & Vehicle Recognition)** — was developed as part of our final year work at **[CBIT](https://www.cbit.ac.in/), Hyderabad**, under the mentorship of  
 👨‍🏫 [Prof. Swamy Das M](https://www.linkedin.com/in/prof-swamy-das-m-4b63171b0/?originalSubdomain=in).
 
 ### 🔧 What's Included:
@@ -63,7 +63,7 @@ This project — **AI-Based E-Gate Management System (Face & Vehicle Recognition
 - Documentation and examples  
 
 > **⚠️ Privacy Notice**  
-> Some data files contain our original records like names, IDs, photos, emails, and access logs. These are left for demo purposes only.  
+> Some data files contain our original records like  photos, vidoes, phone numbers, and access logs etc. These are left for demo purposes only.  
 > If continuing this project, **please sanitize personal data before reuse or distribution**.
 
 ---
@@ -80,7 +80,12 @@ Mentored by:
 - 👨‍🏫 [Prof. Swamy Das M](https://www.linkedin.com/in/prof-swamy-das-m-4b63171b0/?originalSubdomain=in)
 
 ---
+## 📁 Documentation & Demo
+- 📄 [Project Documentation](https://drive.google.com/drive/folders/15nh2ot2uumbXD9K76qBccl2WZlUHSF2W?usp=sharing)
 
+- 🎥 [Demo Video](https://drive.google.com/drive/folders/1iTR79U8aWbOD9O8zlK8-ApRvfak5niMb?usp=sharing)
+  
+---
 ## 🤝 Contributions
 
 You're welcome to **fork**, **contribute**, or **extend** this project in your own academic or research pursuits.  
