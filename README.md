@@ -49,13 +49,50 @@ Together, these modules enhance security, reduce manual effort, and streamline a
 
 ---
 
-## 📬 Contact
+## 🙋‍♂️ Note to Juniors / Future Contributors
 
-Feel free to reach out for **contributions**, **suggestions**, or **improvements**!
+Dear juniors,
+
+This project — **AI-Based E-Gate Management System (Face & Vehicle Recognition)** — was developed as part of our final year work at **CBIT, Hyderabad**, under the mentorship of  
+👨‍🏫 [Prof. Swamy Das M](https://www.linkedin.com/in/prof-swamy-das-m-4b63171b0/?originalSubdomain=in).
+
+### 🔧 What's Included:
+- Working codebase and project structure  
+- Pre-trained models and sample images  
+- Admin interface with logs  
+- Documentation and examples  
+
+> **⚠️ Privacy Notice**  
+> Some data files contain our original records like names, IDs, photos, emails, and access logs. These are left for demo purposes only.  
+> If continuing this project, **please sanitize personal data before reuse or distribution**.
 
 ---
 
-## ✍️ Authors
+## 🎓 Project Credits
 
-- [Viswas Somapongu](https://www.linkedin.com/in/viswas-somapongu/)
-- [Yash Talpallikar](https://www.linkedin.com/in/yash-talpallikar/)
+Originally developed by:
+
+- 👨‍💻 [Viswas Somapongu](https://www.linkedin.com/in/viswas-somapongu/)
+- 👨‍💻 [Yash Talpallikar](https://www.linkedin.com/in/yash-talpallikar/)
+
+Mentored by:
+
+- 👨‍🏫 [Prof. Swamy Das M](https://www.linkedin.com/in/prof-swamy-das-m-4b63171b0/?originalSubdomain=in)
+
+---
+
+## 🤝 Contributions
+
+You're welcome to **fork**, **contribute**, or **extend** this project in your own academic or research pursuits.  
+If you use or enhance it, kindly **credit the original authors and guide**. We’d love to see it grow!
+
+---
+
+## 📬 Contact
+
+For contributions, suggestions, or questions:
+
+- 📧 [Viswas Somapongu – LinkedIn](https://www.linkedin.com/in/viswas-somapongu/)  
+- 📧 [Yash Talpallikar – LinkedIn](https://www.linkedin.com/in/yash-talpallikar/)  
+
+---
